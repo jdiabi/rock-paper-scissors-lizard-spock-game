@@ -2,7 +2,7 @@
 
 This is a solution to the [Rock, Paper, Scissors, Lizard, Spock Game challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH/hub/rock-paper-scissors-game-MMWgLfxDy9)
 
-From the best show Big Bang Theory : https://youtu.be/IFurn06BDuc?t=38
+From the best show : Big Bang Theory : https://youtu.be/IFurn06BDuc?t=38
 
 ### Links
 
