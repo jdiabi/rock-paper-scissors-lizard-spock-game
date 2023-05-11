@@ -6,7 +6,7 @@ From the best show : Big Bang Theory : https://youtu.be/IFurn06BDuc?t=38
 
 ### Links
 
-- Live Site URL: https://jdiabi.github.io/rock-paper-scissors-lizard-spock-game/
+- Live Site URL: https://jdiabi-rock-paper-scissors-lizard-spock-game.vercel.app/
 - Solution URL: https://www.frontendmentor.io/solutions/rockpaperscissorslizardspockgame-yxRjm_qCTG
 
 
